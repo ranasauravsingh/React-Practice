@@ -1,0 +1,123 @@
+.footer_section {
+	width: 100%;
+	float: left;
+	background-image: url(../assets/images/footer-bg.png);
+	height: auto;
+	padding-top: 250px;
+	background-size: 100% 100%;
+	padding-bottom: 30px;
+	background-repeat: no-repeat;
+}
+
+.input_btn_main {
+	width: 50%;
+	display: flex;
+	background-color: #ffffff;
+	border-radius: 40px;
+	padding: 8px 0px;
+	margin: 0 auto;
+}
+
+.mail_text {
+	width: 100%;
+	float: left;
+	font-size: 18px;
+	color: #2b2c2c;
+	background-color: #ffffff;
+	height: auto;
+	padding: 5px 20px;
+	border-radius: 20px;
+	border: 0px;
+}
+
+.subscribe_bt {
+	float: right;
+}
+
+.subscribe_bt a {
+	width: 170px;
+	float: left;
+	font-size: 18px;
+	color: #2b2278;
+	background-color: transparent;
+	padding: 5px 0px;
+	text-align: center;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.subscribe_bt a:hover {
+	color: #000;
+	background-color: transparent;
+}
+
+.social_icon {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.social_icon ul {
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	text-align: center;
+}
+
+.social_icon li {
+	float: left;
+	padding: 30px 5px;
+}
+
+.social_icon a {
+	font-size: 20px;
+	padding: 0px 10px;
+	color: white;
+}
+
+.location_main {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.call_text {
+	width: 100%;
+	float: left;
+	font-size: 20px;
+	color: #ffffff;
+	padding-top: 10px;
+}
+
+.call_text a {
+	color: #ffffff;
+}
+
+.call_text a:hover {
+	color: #e27141;
+}
+
+.copyright_section {
+	width: 100%;
+	float: left;
+	background-color: #122c2d;
+	height: auto;
+}
+
+.copyright_text {
+	width: 100%;
+	float: left;
+	color: #ffffff;
+	text-align: center;
+	font-size: 16px;
+	margin-left: 0px;
+}
+
+.copyright_text a {
+	color: #ffffff;
+}
+
+.copyright_text a:hover {
+	color: #e27141;
+}

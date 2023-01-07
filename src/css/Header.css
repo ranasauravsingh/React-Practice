@@ -1,0 +1,114 @@
+.header_section {
+	width: 100%;
+	float: left;
+	background-image: url(../assets/images/banner-bg.png);
+	height: auto;
+	background-size: 100%;
+	padding: 0px 0px 20px 0px;
+	background-attachment: fixed;
+}
+
+.bg-light {
+	background-color: transparent !important;
+}
+
+.logo {
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding: 20px 0px 50px 0px;
+}
+
+.logo_mobile {
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.mobile_menu {
+	width: 100%;
+	float: left;
+	display: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.navbar-nav {
+	align-items: center;
+}
+
+.btn:not(:disabled):not(.disabled) {
+	cursor: pointer;
+	border-radius: 20px;
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.nav-item {
+	position: relative;
+}
+
+.menu_main {
+	-ms-flex-direction: column;
+	flex-direction: column;
+	padding-left: 0;
+	margin-bottom: 0;
+	list-style: none;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.menu_main ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	display: inline-flex;
+}
+
+.menu_main li {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #fff;
+	border-radius: 40px;
+}
+
+.menu_main li a {
+	color: #ffffff;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+
+.menu_main li a:hover {
+	color: #ffffff;
+	background-color: #2b2278;
+}
+
+.mb-lg-0,
+.my-lg-0 {
+	margin-bottom: 0 !important;
+	width: 20%;
+	float: left;
+}
+
+.header_main {
+	width: 100%;
+	/* background-image: url(assets/images/banner-bg.png); */
+	background-size: 100%;
+	padding: 10px 0px 0px 0px;
+}

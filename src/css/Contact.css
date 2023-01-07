@@ -1,0 +1,58 @@
+.contact_section {
+	width: 100%;
+	float: left;
+	padding-bottom: 90px;
+}
+.contact_taital {
+	width: 100%;
+	float: left;
+	font-size: 40px;
+	color: #363636;
+	text-align: center;
+	font-weight: bold;
+}
+.email_text {
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 120px;
+}
+.email-bt {
+	width: 100%;
+	float: left;
+	font-size: 18px;
+	color: #393838;
+	margin-bottom: 20px;
+	padding: 10px 15px;
+	border: 0px;
+	border: 1px solid #2b2278 !important;
+}
+.massage-bt {
+	width: 100%;
+	float: left;
+	font-size: 18px;
+	color: #393838;
+	margin-bottom: 20px;
+	padding: 10px 15px;
+	border: 0px;
+	border: 1px solid #2b2278 !important;
+}
+.send_btn {
+	width: 170px;
+	margin: 0 auto;
+	text-align: center;
+}
+.send_btn input {
+	width: 100%;
+	float: right;
+	text-align: center;
+	font-size: 20px;
+	color: #ffffff;
+	border-radius: 30px;
+	background-color: #000d10;
+	padding: 7px;
+}
+.send_btn input:hover {
+	color: #ffffff;
+	background-color: #2b2278;
+}
